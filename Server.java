@@ -7,8 +7,8 @@ class Server {
 
    public static void main(String argv[]) throws Exception
     {
-        int msgBufSize = 100;
-        int maxClients = 10;
+        int msgBufSize = 1000;
+        int maxClients = 100;
 
 	// create array of messages and pointer to next message into it
 	Message msgBuf[] = new Message[msgBufSize];
