@@ -2,7 +2,7 @@ import java.io.*;
 import java.net.*;
 import java.util.concurrent.*;
 
-// Client program
+// CLIENT PROGRAM
 
 class Client {
 
